@@ -1,8 +1,10 @@
 # Deepwoken
 -- This Module allows easy configuration of player's humanoid and camera.
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local GuiService = game:GetService("GuiService")
+![51bon0QaOTL](https://user-images.githubusercontent.com/98709058/166125667-8b596d1b-1ede-4a67-9965-e1f83fff533d.png)
 
 local PlayerHelper = {}
 PlayerHelper.initStarted = false
